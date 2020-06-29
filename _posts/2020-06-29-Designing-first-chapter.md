@@ -3,7 +3,7 @@ title:  "First Chapter"
 excerpt: "신뢰할 수 있고 확장 가능하며 유지보수하기 쉬운 애플리케이션"
 
 categories:
-  - Designing
+  - designing
 tags:
   - Study
   - Computer science

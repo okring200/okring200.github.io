@@ -1,8 +1,9 @@
 ---
-title: "Designing Data-Intensive Applications"
-permalink: "/categories/Designing"
+title: "designing"
+permalink: /categories/designing/
 layout: category
 author_profile: true
-taxonomy: Designing
+taxonomy: designing
 ---
-Designing Data-Intensive Applications
+
+좋아하는 윤동주 시인의 작품 모음입니다.
